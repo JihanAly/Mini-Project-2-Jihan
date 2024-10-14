@@ -17,7 +17,12 @@ Admin login dengan memasukkan username dan password, jika username dan password 
 
 
 **Menu Login User**
+
+
 ![login user](https://github.com/user-attachments/assets/708c83c2-98cb-4d9c-8ff9-ea2353147ee2)
+
+
+User login dengan memasukkan username dan password, jika username dan password yang dimasukkan sesuai dengan data yang ada di akun sistem akan mengenali user tersebut dan menampilkan menu user.
 
 
 User login dengan memasukkan username dan password, jika username dan password yang dimasukkan sesuai dengan data yang ada di akun sistem akan mengenali peran user tersebut dan menampilkan menu user.
