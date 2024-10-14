@@ -43,9 +43,6 @@ pada menu admin, admin akan diberikan 6 Fitur seperti gambar diatas dan admin di
 
 
 untuk masuk ke fitur "Tambah Pengguna" inputkan angka 1
- 
-![menu 1](https://github.com/user-attachments/assets/9cb7dd97-30fb-4750-9ae7-a0203cb2baa5)
-
 admin diminta untuk memasukkan id pengguna dan nama pengguna
 
 
@@ -87,14 +84,32 @@ Menghapus tagihan dapat dilakukan dengan cara memilih angka 5 di menu admin. Men
 ![menu 6](https://github.com/user-attachments/assets/91945b3c-615c-4f8d-9f51-23db546a3a0e)
 
 
-Keluar dari menu admin dapat dilakukan dengan cara memilih angka 5. Program akan keluar dari menu admin 
+Keluar dari menu admin dapat dilakukan dengan cara memilih angka 6. Program akan keluar dari menu admin 
 
 
 
+**Menu User**
+
+![menu user](https://github.com/user-attachments/assets/d5267a2f-f15e-418b-911e-36088d5932a0)
 
 
 
+Pada menu user, user akan diberikan 2 Fitur seperti gambar diatas dan user diminta untuk menginputkan fitur sesuai dengan angka yang disediakan.
 
 
+1. Bayar Tagihan
 
 
+![user 1](https://github.com/user-attachments/assets/980e8eea-6b21-4907-af87-6689aefdaf82)
+
+
+User dapat melihat tagihan yang belum dibayar dan memilih untuk membayarnya. Sistem akan menampilkan daftar tagihan beserta statusnya, lalu user bisa memilih tagihan mana yang ingin dibayar.
+
+
+2. Logout
+
+
+![user 2](https://github.com/user-attachments/assets/867c38b7-3596-44d7-ba55-dc1d05e7e1ee)
+
+
+Setelah selesai menggunakan sistem, user bisa keluar dari akun mereka dengan memilih opsi logout. 
